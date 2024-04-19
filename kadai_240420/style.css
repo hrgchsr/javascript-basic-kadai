@@ -1,0 +1,28 @@
+
+body {
+    font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial,
+        sans-serif;
+}
+
+p {
+    font-size: 15px;
+}
+
+button {
+    display: block;
+    margin-bottom: 10px;
+}
+  
+.block1 {
+    display: inline-block;
+    background-color: #02eaff;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.hide {
+    display: none;  /*要素の非表示*/
+}
